@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ba4aa34-6377-4e6f-b2c8-5c3d54bc2811" name="Changes" comment="" />
+    <list default="true" id="88a8d486-a862-4787-bc79-a9e5da92fa47" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,19 +10,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27Sk0xmiCmjgL3FHZOsPXl83mB9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="27eTeCfquD2eq7reGqsqSfBi2hC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,27 +28,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="Management" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Management" />
-      <module name="BAITAPJAVA_NEWS" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Bai3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Management" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3ba4aa34-6377-4e6f-b2c8-5c3d54bc2811" name="Changes" comment="" />
-      <created>1649320664987</created>
+      <changelist id="88a8d486-a862-4787-bc79-a9e5da92fa47" name="Changes" comment="" />
+      <created>1649679648378</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1649320664987</updated>
+      <updated>1649679648378</updated>
     </task>
     <servers />
   </component>
